@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-items-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  padding-left: 0px;
+}
+li {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 20px;
+}
